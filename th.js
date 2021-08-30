@@ -1,4 +1,4 @@
-import {l} from '../../scripts/deps.js'
+import {l} from './deps.js'
 
 const th = (c, sortKey, sortDescending, sortable) => {
     let {

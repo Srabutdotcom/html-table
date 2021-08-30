@@ -1,4 +1,4 @@
-import {l} from '../../scripts/deps.js'
+import {l} from './deps.js'
 const tableStyle =(tableName,coWidthAuto = ' .coWidthAuto {width:auto;}')=> {
     //debugger;
     
