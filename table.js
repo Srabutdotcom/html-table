@@ -1,7 +1,7 @@
 import {th} from './th.js'
 import {tableStyle} from './tablestyle.js'
 import {checkTitleExistence} from './checktitleexistance.js'
-import {l} from '../../scripts/deps.js'
+import {l} from "https://deno.land/x/html_dom@v1.0.2/html-dom.js"//'../../scripts/deps.js'
 
 
 const identity = i => i
